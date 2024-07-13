@@ -1,4 +1,4 @@
-#new docker file for project 
+
 
 FROM ununtu:bionix
 ENV ENINX_VERSION 1.14.0-0ubuntu1.2
