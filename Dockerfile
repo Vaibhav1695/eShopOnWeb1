@@ -8,3 +8,5 @@ RUN  apt-get update && apt-get -y aginx=$NGINX_VERSION
 WORKDIR  /DIrec_name   
 EXPOSE 80 
 CMD ["nginx", "-g" , "deamin off:"]
+
+Last line edited with FINISHEDDD!!!!!
